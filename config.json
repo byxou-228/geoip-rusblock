@@ -75,7 +75,7 @@
         "uri": "https://core.telegram.org/resources/cidr.txt"
       }
     },
-        {
+    {
       "type": "rublock",
       "action": "add",
       "args": {
