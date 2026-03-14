@@ -75,6 +75,14 @@
         "uri": "https://core.telegram.org/resources/cidr.txt"
       }
     },
+        {
+      "type": "rublock",
+      "action": "add",
+      "args": {
+        "name": "rublock",
+        "uri": "https://antifilter.download/list/allyouneed.lst"
+      }
+    },
     {
       "type": "json",
       "action": "add",
