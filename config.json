@@ -76,7 +76,7 @@
       }
     },
     {
-      "type": "rublock",
+      "type": "text",
       "action": "add",
       "args": {
         "name": "rublock",
