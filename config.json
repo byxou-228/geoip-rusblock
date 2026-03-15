@@ -84,6 +84,14 @@
       }
     },
     {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "rublock",
+        "uri": "https://community.antifilter.download/list/community.lst"
+      }
+    },
+    {
       "type": "json",
       "action": "add",
       "args": {
