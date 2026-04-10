@@ -79,7 +79,7 @@
       "type": "text",
       "action": "add",
       "args": {
-        "name": "rublock",
+        "name": "ru-blocked",
         "uri": "https://antifilter.download/list/allyouneed.lst"
       }
     },
@@ -87,7 +87,7 @@
       "type": "text",
       "action": "add",
       "args": {
-        "name": "rublock",
+        "name": "ru-blocked",
         "uri": "https://community.antifilter.download/list/community.lst"
       }
     },
